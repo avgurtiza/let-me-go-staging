@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.1/workbox-sw.js");
 
 importScripts(
-  "/let-me-go-staging/precache-manifest.db01b2c82a2df5e1a7893a1df55acdf1.js"
+  "/let-me-go-staging/precache-manifest.f4b0e89151e05a9434942d1b836985f7.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "let-me-out"});
